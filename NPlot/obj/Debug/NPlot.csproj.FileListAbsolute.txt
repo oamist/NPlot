@@ -1,0 +1,5 @@
+D:\Workbench\work2019\Stocks\KLineImageGererator\NPlot\bin\Debug\NPlot.dll
+D:\Workbench\work2019\Stocks\KLineImageGererator\NPlot\bin\Debug\NPlot.pdb
+D:\Workbench\work2019\Stocks\KLineImageGererator\NPlot\obj\Debug\NPlot.dll
+D:\Workbench\work2019\Stocks\KLineImageGererator\NPlot\obj\Debug\NPlot.pdb
+D:\Workbench\work2019\Stocks\KLineImageGererator\NPlot\obj\Debug\NPlot.csprojAssemblyReference.cache

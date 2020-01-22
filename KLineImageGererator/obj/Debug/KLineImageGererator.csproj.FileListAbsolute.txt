@@ -1,0 +1,12 @@
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\bin\Debug\KLineImageGererator.exe
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\bin\Debug\KLineImageGererator.pdb
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\obj\Debug\KLineImageGererator.csprojAssemblyReference.cache
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\obj\Debug\KLineImageGererator.Properties.Resources.resources
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\obj\Debug\KLineImageGererator.csproj.GenerateResource.cache
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\obj\Debug\KLineImageGererator.exe
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\obj\Debug\KLineImageGererator.pdb
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\bin\Debug\NPlot.dll
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\bin\Debug\NPlot.pdb
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\obj\Debug\KLineImageGererator.csproj.CopyComplete
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\bin\Debug\asx_jbh.xml
+D:\Workbench\work2019\Stocks\KLineImageGererator\KLineImageGererator\obj\Debug\KLineImageGererator.Form1.resources
